@@ -81,10 +81,6 @@ Contributions are welcome! If you'd like to contribute to the development of DOU
     ```
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Feel free to reach out with any questions or feedback!
