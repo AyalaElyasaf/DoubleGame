@@ -2,8 +2,6 @@
 
 Welcome to DOUBLE, an exciting and challenging game developed in JavaScript! Test your skills and enjoy the fun!
 
-![Game Screenshot](link-to-screenshot.png)
-
 ## Table of Contents
 
 - [About the Game](#about-the-game)
