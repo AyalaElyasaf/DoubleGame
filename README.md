@@ -22,7 +22,6 @@ DOUBLE is a dynamic and engaging game that challenges players to match pairs of 
 - **Interactive Gameplay**: Enjoy a seamless and interactive gaming experience.
 - **Responsive Design**: Play the game on any device, be it a desktop, tablet, or mobile.
 - **Engaging UI/UX**: Attractive and user-friendly interface to keep you hooked.
-- **High Scores**: Track your highest scores and compete with friends.
 
 ## Technologies Used
 
